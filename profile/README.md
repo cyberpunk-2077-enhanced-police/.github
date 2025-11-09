@@ -20,7 +20,8 @@ This mod transforms police behavior from static responses into dynamic, city-wid
 ## 📸 Overview
 Screenshots of Cyberpunk 2077 Enhanced Police in action:
 
-![cyberpolice-pursuit](https://github.com/user-attachments/assets/e851b9e7-c674-46eb-b23c-13364bfdc157)
+<img width="1440" height="1080" alt="cyberpolice-pursuit" src="https://github.com/user-attachments/assets/8e7d3289-faec-4d17-96fe-c9801815748f" />
+
 
 ![cyberpolice-wanted](https://github.com/user-attachments/assets/b23b7e83-9aac-4f8a-b615-ff90357c4dad)
 
